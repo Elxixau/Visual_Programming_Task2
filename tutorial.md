@@ -38,4 +38,4 @@
 
 # 6. Kerjakan laporan.html sebagai bukti pengerjaan
 
-# 5. Push folder nama lengkap_NIM kedalam repositori masing-masing dengan nama positori "Visual_Programming_Task2", lalu input url repositori kalian di kumpulinTugas : https://elxixau.github.io/kumpulinTugas
+# 7. Push folder nama lengkap_NIM kedalam repositori masing-masing dengan nama positori "Visual_Programming_Task2", lalu input url repositori kalian di kumpulinTugas : https://elxixau.github.io/kumpulinTugas
