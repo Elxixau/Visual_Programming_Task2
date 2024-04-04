@@ -14,7 +14,7 @@
 #
 # 1. Clone Repositori 
 #    - clone repositori dalam folder "Pemrograman Visual Task2"
-#    - gunakan : git clone https://github.com/Elxixau/Visual_Programming_Task1.git 
+#    - gunakan : git clone https://github.com/Elxixau/Visual_Programming_Task2.git 
 #    - setelah melakukan clone akan muncul folder "project 2"
 #    - isi dari folder tsb pindahkan ke dalam folder nama lengkap_NIM 
 
@@ -35,4 +35,4 @@
 
 # 4. Screenshot code python dari form dan hasil form ketika melakukan run
 
-# .5 Push folder nama lengkap_NIM kedalam repositori masing-masing, lalu input url repositori kalian di kumpulinTugas : https://elxixau.github.io/kumpulinTugas
+# 5. Push folder nama lengkap_NIM kedalam repositori masing-masing, lalu input url repositori kalian di kumpulinTugas : https://elxixau.github.io/kumpulinTugas
